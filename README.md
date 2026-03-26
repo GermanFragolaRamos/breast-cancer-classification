@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26256960/README.md)
 # Breast Cancer Classification — Logistic Regression
 
 **Author:** Germán Fragola Ramos
